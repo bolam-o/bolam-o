@@ -5,7 +5,7 @@
 </div>
 <div align=center>
 
-### 👋🏻 Hello, I'm Boram.
+## 👋🏻 Hello, I'm Boram.
 
 </div>
 
