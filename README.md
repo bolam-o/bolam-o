@@ -1,8 +1,6 @@
-<div>
-    <p style="text-align: center; font-weight: bold; font-size: 18px;">
-        👋 Hello! I'm Boram.
-    </p>
-</div>
+<p style="text-align: center; font-weight: bold; font-size: 18px;">
+    👋 Hello! I'm Boram.
+</p>
 <hr />
 <div style="text-align: center;">
     <span>
