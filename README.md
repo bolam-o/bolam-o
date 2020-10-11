@@ -9,8 +9,6 @@
 
 </div>
 
-<hr />
-
 - 👨‍💻 I'm currently working as a <b>FE developer</b>
 
 - 📕 I'm currently learning <b>React/Typescript</b>
