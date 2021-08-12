@@ -15,6 +15,6 @@
 
 - 🔍 I'm interested in <b>Vue, Spring boot, NestJS, TypeORM</b>
 
-- ✨ Interested in me? It's my [resume](https://modern-softball-64d.notion.site/Boram-Kim-b34782e63fb04c31893d324f5bd31a11)
+- ✨ Interested in me? It's my [resume](#)
 
 - 📞 How to reach me: <b>bolam@kakao.com</b> on E-mail
