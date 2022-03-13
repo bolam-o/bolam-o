@@ -15,6 +15,6 @@
 
 - 🔍 I'm interested in <b>Vue, Spring boot, NestJS, TypeORM</b>
 
-- ✨ Interested in me? It's my [resume](#)
+- ✨ Interested in me? It's my [resume](https://www.linkedin.com/in/boram-kim-3a3689219)
 
 - 📞 How to reach me: <b>bolam@kakao.com</b> on E-mail
